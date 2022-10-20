@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qpumped
+- 👋 Hi, I’m Arthur
 - 👀 I’m interested in develping games.
 - 🌱 I’m currently learning C++, Java, Javascript, PHP, HTML and CSS.
 <!---
